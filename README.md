@@ -11,11 +11,11 @@ This project is built using the TMDB API for fetching movie and TV show data, an
 
 ## Technologies Used
 
-*__JavaScript__: The core functionality and interactivity of Viflix are implemented using JavaScript.
-*__HTML & CSS__: The structure and styling of the website are created with HTML and CSS.
-*__Bootstrap__: Bootstrap is used to enhance the responsiveness and styling of the website.
-*__TMDB API__: The TMDB API is utilized to fetch movie and TV show data.
-*__YouTube API__: The YouTube API is used to retrieve video data related to movies.
+* __JavaScript__: The core functionality and interactivity of Viflix are implemented using JavaScript.
+* __HTML & CSS__: The structure and styling of the website are created with HTML and CSS.
+* __Bootstrap__: Bootstrap is used to enhance the responsiveness and styling of the website.
+* __TMDB API__: The TMDB API is utilized to fetch movie and TV show data.
+* __YouTube API__: The YouTube API is used to retrieve video data related to movies.
 
 ## Getting Started
 
