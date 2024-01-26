@@ -23,7 +23,21 @@ To run Viflix locally, follow these steps:
 
 1. __Clone the repository:__
 > git clone https://github.com/your-username/viflix.git
-> cd viflix
+>> cd viflix
 
-2. 
+2. Open the index.html file in your web browser
+3. Explore and enjoy the Netflix clone experience!
+
+## API Keys
+
+To fetch data from the TMDB API and YouTube API, you'll need to obtain API keys:
+
+1. Create an account on TMDB and YouTube.
+2. Obtain your TMDB API key and YouTube API key.
+3. Insert your API keys in the appropriate places within the JavaScript code where the API calls are made
+
+__Note:__ Keep your API keys secure and avoid sharing them publicly
+
+## Contributions
+Contributions are welcome! Feel free to submit issues, suggest enhancements, or open pull requests to improve Viflix.
 
