@@ -37,8 +37,6 @@ const genreList = {
         for (const genreId of genreIdList) {
             this[genreId] && newGenreList.push(this[genreId]);// this -> genreList
         }
-
-        return newGenreList.join(", ");
     }
 };
 
