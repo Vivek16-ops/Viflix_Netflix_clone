@@ -1,7 +1,7 @@
 'use strcit';
 
-const api_key = '56183e6c2165b0e601f7b54e6b7516fc';
-const imageBaseURL = 'https://image.tmdb.org/t/p/';
+const api_key = 'api_key';
+const imageBaseURL = 'image_url';
 
 // fetch data from the server using the url and passes the result in JSON data to a callback function, along with the optional parameter if has optionalPara
 
