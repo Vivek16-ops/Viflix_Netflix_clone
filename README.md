@@ -23,7 +23,7 @@ To run Viflix locally, follow these steps:
 
 1. __Clone the repository:__
 > git clone https://github.com/your-username/viflix.git
-> cd viflix
+>> cd viflix
 
 2. 
 
